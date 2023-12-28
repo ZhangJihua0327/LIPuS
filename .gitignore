@@ -1,0 +1,4 @@
+# FILEPATH: LIPuS/.gitignore
+*.pyc
+code2inv/graph_encoder/build/
+.idea/

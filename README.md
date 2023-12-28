@@ -2,6 +2,8 @@
 
 A Reinforcement-Learning-based loop invariant inference tool.
 
+![workflow-LIpuS](https://lollipop-picgo.oss-cn-nanjing.aliyuncs.com/img/image-20231226163917291.png)
+
 ### Install
 
 0. `git clone https://github.com/Santiago-Yu/LIPuS.git`, could take a long time.
